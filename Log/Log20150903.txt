@@ -1,0 +1,75 @@
+20150903 14:26:28.569 : ============== start !================
+20150903 14:26:30.119 : File :File/SMS1 Created!
+20150903 14:26:30.163 : File :File/SMS2 Created!
+20150903 14:26:30.226 : File :File/SMS3 Created!
+20150903 14:26:30.269 : File :File/SMS4 Created!
+20150903 14:26:30.303 : File :File/SMS5 Created!
+20150903 14:26:30.336 : File :File/SMS6 Created!
+20150903 14:26:30.662 : Send File Failed Connection reset
+20150903 14:26:30.692 : Send File Failed Connection reset
+20150903 14:26:30.708 : Send File Failed Connection reset
+20150903 14:26:30.726 : Send File Failed Connection reset
+20150903 14:26:30.739 : Send File Failed Connection reset
+20150903 14:26:30.772 : Send File Failed Connection reset
+20150903 14:26:30.775 : ============== Finish !================
+20150903 14:30:21.679 : ============== start !================
+20150903 14:30:22.375 : File :File/SMS1 Created!
+20150903 14:30:22.410 : File :File/SMS2 Created!
+20150903 14:30:22.444 : File :File/SMS3 Created!
+20150903 14:30:22.472 : File :File/SMS4 Created!
+20150903 14:30:22.506 : File :File/SMS5 Created!
+20150903 14:30:22.539 : File :File/SMS6 Created!
+20150903 14:30:22.825 : Send File Failed Connection reset
+20150903 14:30:22.853 : Send File Failed Connection reset
+20150903 14:30:22.877 : Send File Failed Connection reset
+20150903 14:30:22.904 : Send File Failed Connection reset
+20150903 14:30:22.930 : Send File Failed Connection reset
+20150903 14:30:22.948 : Send File Failed Connection reset
+20150903 14:30:22.949 : ============== Finish !================
+20150903 14:32:04.680 : ============== start !================
+20150903 14:32:06.531 : File :File/SMS1 Created!
+20150903 14:32:06.992 : File :File/SMS2 Created!
+20150903 14:32:07.382 : File :File/SMS3 Created!
+20150903 14:32:07.739 : File :File/SMS4 Created!
+20150903 14:32:08.192 : File :File/SMS5 Created!
+20150903 14:32:08.689 : File :File/SMS6 Created!
+20150903 14:32:10.562 : Send File Failed Connection reset by peer: socket write error
+20150903 14:32:10.640 : Send File Failed Connection reset by peer: socket write error
+20150903 14:32:11.248 : Send File Failed Connection reset by peer: socket write error
+20150903 14:32:11.320 : Send File Failed Connection reset by peer: socket write error
+20150903 14:32:11.383 : Send File Failed Connection reset by peer: socket write error
+20150903 14:32:11.461 : Send File Failed Connection reset by peer: socket write error
+20150903 14:32:11.462 : ============== Finish !================
+20150903 14:33:49.271 : ============== start !================
+20150903 14:36:54.17 : File :File/SMS1 Created!
+20150903 14:40:04.259 : File :File/SMS2 Created!
+20150903 14:43:03.159 : File :File/SMS3 Created!
+20150903 14:46:09.957 : File :File/SMS4 Created!
+20150903 14:48:57.685 : ============== start !================
+20150903 14:49:42.255 : File :File/SMS1 Created!
+20150903 14:50:27.859 : File :File/SMS2 Created!
+20150903 14:51:08.317 : File :File/SMS3 Created!
+20150903 14:51:51.601 : File :File/SMS4 Created!
+20150903 14:52:45.753 : File :File/SMS5 Created!
+20150903 14:53:41.334 : File :File/SMS6 Created!
+20150903 14:53:41.668 : Send File Failed Connection reset by peer: socket write error
+20150903 14:53:41.761 : Send File Failed Connection reset by peer: socket write error
+20150903 14:53:41.794 : Send File Failed Connection reset by peer: socket write error
+20150903 14:53:41.893 : Send File Failed Connection reset by peer: socket write error
+20150903 14:53:41.991 : Send File Failed Connection reset by peer: socket write error
+20150903 14:53:42.42 : Send File Failed Connection reset by peer: socket write error
+20150903 14:53:42.43 : ============== Finish !================
+20150903 14:55:34.116 : ============== start !================
+20150903 14:55:44.971 : File :File/SMS1 Created!
+20150903 14:55:54.934 : File :File/SMS2 Created!
+20150903 14:56:03.938 : File :File/SMS3 Created!
+20150903 14:56:13.618 : File :File/SMS4 Created!
+20150903 14:56:26.57 : File :File/SMS5 Created!
+20150903 14:56:39.233 : File :File/SMS6 Created!
+20150903 14:56:39.519 : Send File Failed Connection reset by peer: socket write error
+20150903 14:56:39.561 : Send File Failed Connection reset by peer: socket write error
+20150903 14:56:39.637 : Send File Failed Connection reset by peer: socket write error
+20150903 14:56:39.718 : Send File Failed Connection reset by peer: socket write error
+20150903 14:56:39.807 : Send File Failed Connection reset by peer: socket write error
+20150903 14:56:39.857 : Send File Failed Connection reset by peer: socket write error
+20150903 14:56:39.858 : ============== Finish !================

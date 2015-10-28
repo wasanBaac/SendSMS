@@ -1,0 +1,33 @@
+20150901 14:51:02.217 : start !
+20150901 14:51:03.12 : File :File/SMS1 Created!
+20150901 14:51:03.44 : File :File/SMS2 Created!
+20150901 14:51:03.76 : File :File/SMS3 Created!
+20150901 14:51:03.106 : File :File/SMS4 Created!
+20150901 14:51:03.142 : File :File/SMS5 Created!
+20150901 14:51:03.179 : File :File/SMS6 Created!
+20150901 14:52:55.34 : start !
+20150901 14:52:55.927 : File :File/SMS1 Created!
+20150901 14:52:55.962 : File :File/SMS2 Created!
+20150901 14:52:55.998 : File :File/SMS3 Created!
+20150901 14:52:56.29 : File :File/SMS4 Created!
+20150901 14:52:56.80 : File :File/SMS5 Created!
+20150901 14:52:56.125 : File :File/SMS6 Created!
+20150901 14:52:56.391 : Send File FailedConnection reset
+20150901 14:52:56.406 : Send File FailedConnection reset
+20150901 14:52:56.418 : Send File FailedConnection reset
+20150901 14:52:56.430 : Send File FailedConnection reset
+20150901 14:52:56.441 : Send File FailedConnection reset
+20150901 14:52:56.453 : Send File FailedConnection reset
+20150901 15:06:12.374 : start !
+20150901 15:06:13.78 : File :File/SMS1 Created!
+20150901 15:06:13.118 : File :File/SMS2 Created!
+20150901 15:06:13.151 : File :File/SMS3 Created!
+20150901 15:06:13.182 : File :File/SMS4 Created!
+20150901 15:06:13.284 : File :File/SMS5 Created!
+20150901 15:06:13.397 : File :File/SMS6 Created!
+20150901 15:06:13.678 : Send File Failed Connection reset
+20150901 15:06:13.692 : Send File Failed Connection reset
+20150901 15:06:13.704 : Send File Failed Connection reset
+20150901 15:06:13.715 : Send File Failed Connection reset
+20150901 15:06:13.727 : Send File Failed Connection reset
+20150901 15:06:13.739 : Send File Failed Connection reset

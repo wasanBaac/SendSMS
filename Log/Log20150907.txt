@@ -1,0 +1,32 @@
+20150907 11:16:14.91 : ============== start !================
+20150907 11:16:14.975 : Could not find stored procedure 'dbo.SMS_CustomerInsurance1/1'.
+20150907 11:16:15.14 : Could not find stored procedure 'dbo.SMS_CustomerInsurance12/10'.
+20150907 11:16:15.53 : Could not find stored procedure 'dbo.SMS_APPROVED1/1'.
+20150907 11:16:15.88 : Could not find stored procedure 'dbo.SMS_APPROVED12/10'.
+20150907 11:16:15.123 : Could not find stored procedure 'dbo.SMS_Payback1/1'.
+20150907 11:16:15.157 : Could not find stored procedure 'dbo.SMS_Payback12/10'.
+20150907 11:16:15.159 : ============== Finish !================
+20150907 11:17:25.938 : ============== start !================
+20150907 11:17:26.748 : Cannot find either column "DBO" or the user-defined function or aggregate "DBO.FNTHAIMONTH", or the name is ambiguous.
+20150907 11:17:26.783 : Cannot find either column "DBO" or the user-defined function or aggregate "DBO.FNTHAIMONTH", or the name is ambiguous.
+20150907 11:17:29.406 : File :File/SMS3 Created!
+20150907 11:17:30.362 : File :File/SMS4 Created!
+20150907 11:17:30.831 : File :File/SMS5 Created!
+20150907 11:17:30.986 : File :File/SMS6 Created!
+20150907 11:17:30.987 : ============== Finish !================
+20150907 11:19:06.365 : ============== start !================
+20150907 11:19:16.142 : File :File/SMS1 Created!
+20150907 11:19:16.440 : File :File/SMS2 Created!
+20150907 11:19:16.649 : File :File/SMS3 Created!
+20150907 11:19:16.758 : File :File/SMS4 Created!
+20150907 11:19:16.802 : File :File/SMS5 Created!
+20150907 11:19:16.846 : File :File/SMS6 Created!
+20150907 11:19:16.851 : ============== Finish !================
+20150907 11:25:41.776 : ============== start !================
+20150907 11:25:43.669 : File :File/SMS1 Created!
+20150907 11:25:43.953 : File :File/SMS2 Created!
+20150907 11:25:44.222 : File :File/SMS3 Created!
+20150907 11:25:44.344 : File :File/SMS4 Created!
+20150907 11:25:44.483 : File :File/SMS5 Created!
+20150907 11:25:44.704 : File :File/SMS6 Created!
+20150907 11:25:44.713 : ============== Finish !================
